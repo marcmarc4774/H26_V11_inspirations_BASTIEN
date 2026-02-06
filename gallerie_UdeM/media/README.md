@@ -1,1 +1,1 @@
-ce dossier contient les photos de l'expotitions
+ce dossier contient les photos de l'expositions
