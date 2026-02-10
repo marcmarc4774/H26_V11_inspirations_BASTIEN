@@ -43,3 +43,8 @@ Exemple:
 ![image_tableau_eeg2](https://github.com/user-attachments/assets/767d8c14-6fb4-4a8e-bc8d-20ae1139c324)
 ![image_tableau_eeg](https://github.com/user-attachments/assets/96b83f2e-64c0-47cc-aa9c-806999f3e60b)
 
+# Références:
+[Photo de Marion Scchneider](https://schneidermarion.net/apropos)
+[Entrée des Galeries de l'UdeM](https://museesmontreal.org/fr/musees/galerie-de-luniversite-de-montreal)
+
+Le reste des photos ont été prises par moi.
