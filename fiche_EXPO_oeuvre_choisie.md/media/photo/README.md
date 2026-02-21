@@ -1,1 +1,1 @@
-Ici se trouvent les photos des projets finissant que j'ai choisi
+Ici se trouvent les photos de l'oeuvre choisi.
