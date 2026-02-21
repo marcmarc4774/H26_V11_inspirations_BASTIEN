@@ -1,1 +1,1 @@
-Cette fiche présente le dispositif « Mawlukhotine » à la fin de l’exposition - Voix autochtones d'aujourd'hui - Savoir, trauma, résilience
+Cette fiche présente le projet finissant que j'ai choisi.
