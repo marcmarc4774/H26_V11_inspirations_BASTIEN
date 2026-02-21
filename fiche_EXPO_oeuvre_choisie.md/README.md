@@ -1,1 +1,1 @@
-Cette fiche présente une des expositions des finissant en TIM
+Cette fiche présente le dispositif « Mawlukhotine » à la fin de l’exposition - Voix autochtones d'aujourd'hui - Savoir, trauma, résilience
