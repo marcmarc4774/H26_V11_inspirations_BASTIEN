@@ -40,7 +40,7 @@ Permanante.
 Instruire les spectateurs sur ce que les communautés autochtones font comme projets en utilisant la technologie d'aujourd'hui.
 
 ## Mise en espace
-(croquis ici)
+![Croquis de la salle](croquis/croquis_salle.jpg)
 
 ## Composantes du dispositif
 Plusieurs petits écrans, des téléphones fixes avec lesquels on peut entendre les sont des vidéos jouant sur les écrans, un support mural.
