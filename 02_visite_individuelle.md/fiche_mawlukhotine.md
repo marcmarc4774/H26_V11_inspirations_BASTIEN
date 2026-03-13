@@ -1,10 +1,7 @@
 # Fiche sur le dispositif « Mawlukhotine » de l'exposition « Voix autochtones d'aujourd'hui - Savoir, Trauma, Résilience ».
 
-## Nom de l'exposition
-Voix autochtones d'aujourd'hui - Savoir, Trauma, Résilience.
-
 ![photo de l'affiche de l'exposition](media/photos/affiche_expo.jpg)
->Photo prise par moi.
+>Photo de l'affiche de l'exposition à l'intérieur du musée. Photo prise par moi.
 
 ## Lieu de la mise en exposition
 Musée McCord Stewart, Montréal.
@@ -22,16 +19,18 @@ Exposition permanente.
 Mawlukhotine.
 
 ![vue d'ensemble du dispositif](media/photos/vue_ensemble.jpg)
->Photo prise par moi
+>Photo d'ensemble du dispositif. Photo prise par moi
 
 ## Nom de la firme
-L'exposition fut réalisé par le musée McCord Stewart
+L'exposition fut réalisé par le musée McCord Stewart.
 
 ## Année de réalisation
 2021.
 
 ## Descrition du dispositif
-Plusieurs vidéos jouent sur les écrans à différents moments, il faut prendre l'un des téléphones blancs pour pouvoir entendre les sons de ceux-ci. Les vidéos racontent les divers projets et histoires que les autochtones font et vivent. Ils racontent aussi leurs conditions de vie.
+Plusieurs vidéos jouent sur les écrans à différents moments, il faut prendre l'un des téléphones blancs pour pouvoir entendre les sons de ceux-ci. Les vidéos racontent les divers projets et histoires que les autochtones font et vivent. Ils racontent aussi leurs conditions de vie.<
+
+
 
 ## Type d'installation
 Permanante.
@@ -41,7 +40,7 @@ Instruire les spectateurs sur ce que les communautés autochtones font comme pro
 
 ## Mise en espace
 ![Croquis de la salle](croquis/croquis_salle.jpg)
->Photo prise par moi.
+>Croquis de la mise en espace du dispositif. Photo prise par moi.
 
 ## Composantes du dispositif
 Plusieurs petits écrans, des téléphones fixes avec lesquels on peut entendre les sont des vidéos jouant sur les écrans, un support mural.
