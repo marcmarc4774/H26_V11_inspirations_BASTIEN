@@ -64,6 +64,9 @@ Le dispositif est simple mais pousse quand même le spectateur à interagir avec
 ## Ce qui m'a plus
 Probablement les téléphones permettant d'entendre le son des vidéos, simulant un appel téléphonique avec les personnes parlant dans celles-ci.
 
+## Ce que je ferais différement
+J'ajouterais l'option de choisir les vidéo que je souhaite écouter car les vidéos ne joue pas tous au même moment. Cela nous fais attendre les autres vidéos plusieurs fois sans avoir rien à voir ou écouter.
+
 ## Références
 
 [Exposition en ligne](https://expositions.musee-mccord-stewart.ca/)
