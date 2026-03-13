@@ -41,6 +41,7 @@ Instruire les spectateurs sur ce que les communautés autochtones font comme pro
 
 ## Mise en espace
 ![Croquis de la salle](croquis/croquis_salle.jpg)
+>Photo prise par moi.
 
 ## Composantes du dispositif
 Plusieurs petits écrans, des téléphones fixes avec lesquels on peut entendre les sont des vidéos jouant sur les écrans, un support mural.
