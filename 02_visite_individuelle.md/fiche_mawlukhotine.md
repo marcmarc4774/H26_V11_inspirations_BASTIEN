@@ -28,9 +28,10 @@ L'exposition fut réalisé par le musée McCord Stewart.
 2021.
 
 ## Descrition du dispositif
-Plusieurs vidéos jouent sur les écrans à différents moments, il faut prendre l'un des téléphones blancs pour pouvoir entendre les sons de ceux-ci. Les vidéos racontent les divers projets et histoires que les autochtones font et vivent. Ils racontent aussi leurs conditions de vie.<
+Plusieurs vidéos jouent sur les écrans à différents moments, il faut prendre l'un des téléphones blancs pour pouvoir entendre les sons de ceux-ci. Les vidéos racontent les divers projets et histoires que les autochtones font et vivent. Ils racontent aussi leurs conditions de vie.
 
-
+![photo d'un des écrans](media/photos/ecran_dispositif.jpg)
+>Photo de l'un des écrans du dispositif. Photo prise par moi.
 
 ## Type d'installation
 Permanante.
