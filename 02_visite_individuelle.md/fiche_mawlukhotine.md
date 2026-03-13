@@ -19,7 +19,7 @@ Exposition permanente.
 Mawlukhotine.
 
 ![vue d'ensemble du dispositif](media/photos/vue_ensemble.jpg)
->Photo d'ensemble du dispositif. Photo prise par moi
+>Photo d'ensemble du dispositif. Photo prise par moi.
 
 ## Nom de la firme
 L'exposition fut réalisé par le musée McCord Stewart.
@@ -50,7 +50,7 @@ Plusieurs petits écrans, des téléphones fixes avec lesquels on peut entendre 
 >Photo prise par moi.
 
 ## Éléments nécéssaire à la mise en exposition
-Support mural pour les écrans et les téléphones
+Support mural pour les écrans et les téléphones.
 
 ![photo du support mural](media/photos/support_ecran.jpg)
 >Photo prise par moi.
@@ -60,9 +60,9 @@ Le dispositif est simple mais pousse quand même le spectateur à interagir avec
 
 ![photo de moi qui essaie le dispositif](media/photos/moi_essaie_dispositif.jpg)
 >Photo prise par moi.
->
+
 ## Ce qui m'a plus
-Probablement le fait qu'on a le choix de prendre le téléphone ou non car il y a des sous-titres dans les vidéos.
+Probablement les téléphones permettant d'entendre le son des vidéos, simulant un appel téléphonique avec les personnes parlant dans celles-ci.
 
 ## Références
 
