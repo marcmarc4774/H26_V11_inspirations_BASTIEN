@@ -7,7 +7,7 @@
 Musée McCord Stewart, Montréal.
 
 ![photo de la façade avant du musée](media/photos/musee_mccord_stewart.jpg)
->Photo prise par le musée McCord Stewart.
+>Photo de la façade avant du musée. Photo prise par le musée McCord Stewart.
 
 ## Type d'exposition
 Exposition permanente.
@@ -47,19 +47,19 @@ Instruire les spectateurs sur ce que les communautés autochtones font comme pro
 Plusieurs petits écrans, des téléphones fixes avec lesquels on peut entendre les sont des vidéos jouant sur les écrans, un support mural.
 
 ![photo des écrans et des téléphones](media/photos/telephone_ecran.jpg)
->Photo prise par moi.
+>Photo d'un écran et d'un téléphone. Photo prise par moi.
 
 ## Éléments nécéssaire à la mise en exposition
 Support mural pour les écrans et les téléphones.
 
 ![photo du support mural](media/photos/support_ecran.jpg)
->Photo prise par moi.
+>Photo du support mural du dispositif. Photo prise par moi.
 
 ## Expérience vécue
 Le dispositif est simple mais pousse quand même le spectateur à interagir avec lui car s'il veut entendre les sons des vidéos, il doit prendre le téléphone fixe correspondant lui permettant d'avoir accès à l'audio de la vidéo.
 
 ![photo de moi qui essaie le dispositif](media/photos/moi_essaie_dispositif.jpg)
->Photo prise par moi.
+>Photo de moi en train d'essayer le dispositif. Photo prise par moi.
 
 ## Ce qui m'a plus
 Probablement les téléphones permettant d'entendre le son des vidéos, simulant un appel téléphonique avec les personnes parlant dans celles-ci.
