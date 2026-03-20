@@ -1,1 +1,1 @@
-Ici se trouve le palmarès des projets finissants.
+Ici se trouve les photos de vue d'ensemble des projets finissants.
