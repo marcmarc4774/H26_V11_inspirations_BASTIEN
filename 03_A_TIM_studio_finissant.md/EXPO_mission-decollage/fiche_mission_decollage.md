@@ -80,4 +80,11 @@ Temporaire.
 
 # Éléments nécéssaires à la mise en expositions:
 
+![élément de mise en exposition](media/element_mise_exposition.jpg)
+> Source: [Technique oignon](https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/)
 
+# Expérience vécue/Cequi m'a plus:
+J'ai trouvé le projet très amusant car il mise sur la coopération des joueurs. Même s'il est possible de jouer solo, il est recommendé et plus amusasnt de jouer entre amis. 
+
+# Ce que je ferais différemment:
+j'ajouterais l'option de pouvoir se diriger vers le haut et vers le bas ainsi que de rajouter des obstacles supplémentaires en option pour ceux qui voudrait un défi supplémentaire.
