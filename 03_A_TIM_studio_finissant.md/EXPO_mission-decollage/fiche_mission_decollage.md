@@ -78,3 +78,6 @@ Temporaire.
 - C++ (Arduino)
 > Source [Technique oignon](https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/)
 
+# Éléments nécéssaires à la mise en expositions:
+
+
