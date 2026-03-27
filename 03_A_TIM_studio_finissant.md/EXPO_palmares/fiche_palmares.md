@@ -6,3 +6,14 @@
 |4. Océan rouge  |Amira Tounekti, Kristy Moussally.|![océan-rouge](media/implantation-ocean-rouge.jpg) Source: [Technique-Océan](https://deux-intelligence.github.io/deux-neurones/#/technique/)  |![ocean-rouge](media/vue_ensemble_ocean_rouge.jpg) Photo prise par moi. |[Github Océan Rouge.](https://deux-intelligence.github.io/deux-neurones/#/)  |J'ai trouvé Océan Rouge plus agréable, car même si le jeu n'a pas changé, la modification de l'apparence de l'arcade augmentait l'immersion lorsqu'on y jouait. Cepandant, cette même modification de l'apprence affecte légèrement la visibilité lors de l'intéraction avec l'arcade.  |
 |5. Arbre en face  |Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani, Rafael Angon Dube.  |![arbre-en-face](media/implantation-arbre-face.jpg) Source: [Technique-Arbre-en-face](https://mammouths.github.io/projet/#/technique/)  |![arbre-en-face](media/vue_ensemble_arbre-en-face.jpg) Photo prise par moi. |[Github Arbre en Face](https://mammouths.github.io/projet/#/)  | J'ai trouvé Arbre en face relativement ennuyeux car autre que l'amusante et soudaine surprise de voir son visage et/ou celui d'un ami lorsqu'on intéragit avec le dispositif, il n'y a pas grand chose qui marque l'esprit. De plus, le dispositif ne fait pas passer le message que l'équipe tente de faire passer par lui même, dans le sens où on a besoin d'explications pour comprendre le message.   |
 |6. Quand les yeux se croisent  |Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif.  |![yeux-croisent](media/implantation-yeux-croise.jpg) Source: [Technique-Quand-les-yeux-se-croisent](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/technique/)  |![yeux-croisent](media/vue_ensemble_yeux-se-croise.jpg) Photo prise par moi. |[Github Quand les Yeux se Croisent](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/)  |J'ai trouvé Quand les yeux se croisent plutôt monotone, car, similairement à Arbre en Face, la surprise de l'interaction est amusante, mais il n'y a rien de très marquant, sauf peut-être le fonctionnement du dispositif.  |
+
+
+## Cours qui me semble indispensable pour la réalisation des projets:
+1. Modélisation 3D
+2. Web (1-5)
+3. Traitement audiovisuel
+
+## Description d'une composante que je ne connaissais pas:
+Unity (utilisé dans le projet Oignon - Mission Décollage) : Unity Engine est un logiciel de développement de jeux et d'applications qui permet aux développeurs de créer des jeux vidéo sur plus de 20 plateformes et des milliards d'appareils.
+> Source: [Moteur Unity](https://unity.com/fr/products/unity-engine)
+
