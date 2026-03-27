@@ -31,3 +31,12 @@ O.I.G.N.O.N
 
 # Année de réalisation:
 2026.
+
+# Description du projet:
+
+![image cartel](media/image_cartel.jpg)
+> Photo du cartel du projet. Prise par moi.
+
+# Type d'installation:
+Temporaire.
+
