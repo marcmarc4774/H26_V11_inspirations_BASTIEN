@@ -1,1 +1,1 @@
-Ici se trouve mes photos prise durant l'exposition.
+Ici se trouve les médias (photos et croquis) prise durant l'exposition.
