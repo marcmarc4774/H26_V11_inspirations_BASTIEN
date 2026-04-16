@@ -5,7 +5,9 @@
 
 ## Lieu de mise en exposition
 Centre des Sciences de Montréal.
-(ajouter image ici)
+
+![centre des sciences de montréal](media/)
+> Source [Fusion électrique](https://fusionelectrique.com/wp-content/uploads/2021/08/centre-des-sciences-de-montreal.jpg)
 
 ## Type d'exposition
 Permanante.
