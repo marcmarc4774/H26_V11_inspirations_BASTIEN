@@ -7,7 +7,7 @@
 Centre des Sciences de Montréal.
 (ajouter image ici)
 
-##Type d'exposition
+## Type d'exposition
 Permanante.
 
 ## Date de la plus récente visite
@@ -24,7 +24,6 @@ Centre des Sciences de Montréal, en partenariat avec:
 > Source: [Vieux-port de Montréal](https://www.vieuxportdemontreal.com/salle-de-presse/lexposition-interactive-explore-ouvre-ses-portes-le-28-novembre-au-centre-des)
 
 ## Description du dispositif
-(recadrer l'Image)
 ![texte descrptif](media/texte_descriptif.jpg)
 > Photo prise par moi.
 
@@ -39,5 +38,9 @@ Instruire les jeunes sur le fonctionnement de l'IA en offrant une activité inte
 ## Composantes du dispositif (visible)
 1. Un écran tactile incliné permettant aux utilisateurs d'intéragir avec le dispositif.
 2. un grand téléviseur accroché au mur permettant aux utilisateurs de voir le résultat de leur manipulation du dispositif.
+
 ![écran incliné](media/ecran_incline.jpg) ![écran téléviseur](media/moi_essai_dispositif_2.jpg)
 > Photos prise par moi.
+
+## Ce qui m'as plus
+J'ai bien aimé le fait qu'on puisse voir comment une IA réagis selon divers paramètres différent. L'interface était assez intuitive, ce qui permet à l'utilisatuer de comprendre facilement ce qui est attendu de lui.
