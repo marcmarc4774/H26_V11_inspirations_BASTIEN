@@ -11,8 +11,9 @@ Présenter le dispositif Malukhotine de l'exposstion « Voix autochtones d'aujou
 3. ## Expérience vécue
    L'orsqu'on arrive devant le dispositif, on a l'option de prendre les téléphones fixes à coté des écrans pour entendre le son des différentes vidéos jouant en même temps. Sinon, il y a aussi des sous-titres pour ceux qui seraient malentendant.
 5. ## appréciation critique:
-J'ai bien aimé le fait qu'on entende le son des vidéos avec les téléphones, simulant un vrai appel téléphonique avec les gens qui parlent à l'intérieur des écrans. Pour ce que je ferais différemment, J'ajouterais l'option de choisir les vidéo que je souhaite écouter car les vidéos ne joue pas tous au même moment. Cela nous fais attendre les autres vidéos plusieurs fois sans avoir rien à voir ou écouter.
-5. Liens avec d'autres oeuvres, dispositifs et expériences multimédias découverts cette session (ressemblances, différences ou intérêt spécifique)
+   J'ai bien aimé le fait qu'on entende le son des vidéos avec les téléphones, simulant un vrai appel téléphonique avec les gens qui parlent à l'intérieur des écrans. Pour ce que je ferais différemment,    j'ajouterais l'option de choisir les vidéos que je souhaite écouter car les vidéos ne joue pas tous au même moment. Cela nous fait attendre les autres vidéos plusieurs fois sans avoir rien à voir ou écouter.
+6. ## Liens avec d'autres oeuvres, dispositifs et expériences multimédias découverts cette session (ressemblances, différences ou intérêt spécifique)
+   Ce dispositif me rappelle l'un des dispositifs de l'expositions sur l'IA que nous avons fait en début de session. ce dispositif avait des écouteurs avec lesquelles on pouvait entendre le son d'une vidéo qui jouait sur un écran. De plus, il y avait également des sous-titres offrant une bonne aaccessibilité pour tout le monde.
 
 
    
